@@ -19,7 +19,7 @@ This is a simple Next.js application built with TypeScript and Tailwind CSS.
 3. Run the development server:
 
    ```bash
-   npm install
+   npm run dev
 
 
 4. Visit the app in your browser at http://localhost:3000.
